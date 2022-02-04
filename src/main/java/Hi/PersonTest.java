@@ -18,7 +18,7 @@ class PersonTest
 		R= new Person("Romeo", "Mon",15);
 		J= new Person("Juliet", "Cap",13);
 		M= new Person("Count", "Dukoo", 54);
-		Y= new Person("Yo", "Da", 973);
+		Y= new Person("Yo", "Da", 97);
 	}
 
 	@Test
